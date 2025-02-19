@@ -52,14 +52,14 @@
 > - 
 
 ### :hourglass_flowing_sand: Prazos
-- [] 24/02 a 28/02 - Kick-off
-- [] 10/03 a 30/03 - Primeira Sprint
-- [] 31/03 a 04/04- Sprint Review / Planning
-- [] 07/04 a 27/04 - Segunda Sprint
-- [] 28/04 a 02/05 - Sprint Review / Planning
-- [] 05/05 a 25/05 - Terceira Sprint
-- [] 26/05 a 28/05 - Sprint Review 
-- [] 09/05 - Feira de Soluções e Apresentação Final API
+- [ ] 24/02 a 28/02 - Kick-off
+- [ ] 10/03 a 30/03 - Primeira Sprint
+- [ ] 31/03 a 04/04- Sprint Review / Planning
+- [ ] 07/04 a 27/04 - Segunda Sprint
+- [ ] 28/04 a 02/05 - Sprint Review / Planning
+- [ ] 05/05 a 25/05 - Terceira Sprint
+- [ ] 26/05 a 28/05 - Sprint Review 
+- [ ] 09/05 - Feira de Soluções e Apresentação Final API
 
 *****
 

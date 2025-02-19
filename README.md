@@ -27,7 +27,7 @@
 | João Arruda - Developer | <a href="https://www.linkedin.com/in/joaoarruda0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/joaoarruda-dev" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Pablo Henrique - Developer | <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/pablohgs05" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Renato Mendes - Developer| <a href="https://www.linkedin.com/in/renato-mendes-61a6481a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/RenatoCMMendes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
-| Ruth Mira - Developer | <a href="https://www.linkedin.com/in/ruth-mira/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/RuthMira" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Ruth Mira - Scrum Master | <a href="https://www.linkedin.com/in/ruth-mira/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/RuthMira" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Vitor Morais - Developer | <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/vmorais111" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 
 <h1>:pushpin: Projeto API</h1> 
@@ -52,12 +52,14 @@
 > - 
 
 ### :hourglass_flowing_sand: Prazos
-- [] 26/08 a 30/08 - Kick-off
-- [] 09/09 a 29/09 - Primeira Sprint
-- [] 30/09 a 20/10 - Segunda Sprint
-- [] 21/10 a 10/11 - Terceira Sprint
-- [] 11/11 a 01/12 - Quarta Sprint
-- [] 12/12 - Feira de Soluções e Apresentação Final API
+- [] 24/02 a 28/02 - Kick-off
+- [] 10/03 a 30/03 - Primeira Sprint
+- [] 31/03 a 04/04- Sprint Review / Planning
+- [] 07/04 a 27/04 - Segunda Sprint
+- [] 28/04 a 02/05 - Sprint Review / Planning
+- [] 05/05 a 25/05 - Terceira Sprint
+- [] 26/05 a 28/05 - Sprint Review 
+- [] 09/05 - Feira de Soluções e Apresentação Final API
 
 *****
 

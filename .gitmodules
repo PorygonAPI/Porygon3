@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/PorygonAPI/server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/PorygonAPI/client.git

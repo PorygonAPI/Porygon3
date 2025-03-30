@@ -190,14 +190,12 @@ Como usuário, quero ....
 
 <br>
 
-  <!-- Nesta sprint, usamos usando points por histórias para medir nosso progresso em relação às entregas propostas.  
-  Pontuação total: 29 -->
+Nesta sprint, organizamos os prazos em três ciclos de seis dias. As tarefas foram classificadas por prioridade: alta, média e baixa.
 <br>
 
-<!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
+![Burndown - Sprint 1](img/burndownsprint1.png)
 
-Última Atualização: 01/10/2024 -->
-
+Última Atualização: 30/03/2025
 
 </details>
 

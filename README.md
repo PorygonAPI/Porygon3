@@ -200,3 +200,50 @@ Como administrador, preciso que a aplicação seja segura e todos os dados sens�
 
 </details>
 
+**Acesse a documentação de Contribuição do Projeto no arquivo [CONTRIBUTING](https://github.com/PorygonAPI/doc/blob/main/CONTRIBUTING.md)**
+
+## 🚀 Desempenho da Equipe | Burndown
+
+
+<details>
+<summary> SPRINT 1 | </summary>
+
+<br>
+
+Nesta sprint, organizamos os prazos em três ciclos de seis dias. As tarefas foram classificadas por prioridade: alta, média e baixa.
+<br>
+
+![Burndown - Sprint 1](img/burndownsprint1.png)
+
+Última Atualização: 30/03/2025
+
+</details>
+
+<details>
+<summary> SPRINT 2 | </summary>
+<br>
+
+  <!-- Nesta sprint, usamos usando points por histórias para medir nosso progresso em relação às entregas propostas.  
+  Pontuação total: 29 -->
+<br>
+
+<!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
+
+Última Atualização: 01/10/2024 -->
+
+</details>
+
+
+<details>
+<summary> SPRINT 3 | </summary>
+<br>
+
+  <!-- Nesta sprint, usamos usando points por histórias para medir nosso progresso em relação às entregas propostas.  
+  Pontuação total: 29 -->
+<br>
+
+<!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
+
+Última Atualização: 01/10/2024 -->
+
+</details>

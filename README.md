@@ -61,8 +61,8 @@ acesso por meio de API
 ### :hourglass_flowing_sand: Prazos
 - [x] 24/02 a 28/02 - Kick-off
 - [x] 10/03 a 30/03 - Primeira Sprint
-- [ ] 31/03 a 04/04- Sprint Review / Planning
-- [ ] 07/04 a 27/04 - Segunda Sprint
+- [x] 31/03 a 04/04- Sprint Review / Planning
+- [x] 07/04 a 27/04 - Segunda Sprint
 - [ ] 28/04 a 02/05 - Sprint Review / Planning
 - [ ] 05/05 a 25/05 - Terceira Sprint
 - [ ] 26/05 a 28/05 - Sprint Review 
@@ -91,7 +91,7 @@ Wireframe do produto disponível pelo [Figma](https://www.figma.com/design/Q9tJC
 
 ### :game_die: Banco de Dados
 
-[Modelo Físico](![Image](https://github.com/user-attachments/assets/bcd2027a-9f47-4c2e-a649-cebd762a9308))
+[Modelo Físico](/img/modelo_fisico_banco_sprint2.png)
   
 ## :white_check_mark: Requisitos
 
@@ -117,12 +117,14 @@ Wireframe do produto disponível pelo [Figma](https://www.figma.com/design/Q9tJC
 
 | Ranking | Prioridade | User Story | Sprint | Requisitos    |
 |---------|------------|------------|--------|---------------|
-| 1 | Alta | Como administrador, preciso cadastrar novos usuários (analistas e consultores) para que possam acessar e operar o sistema com determinadas permissões | 1 | R1 e R4 |
+| 1 | Média | Como administrador, preciso cadastrar, editar e excluir usuários (analistas e consultores) para que possam acessar e operar o sistema com determinadas permissões, e eu terei acesso a todas as funcionalidades | 1 | R1 e R4 |
 | 2.1 | Alta | Como consultor, eu quero poder cadastrar áreas agrícolas para que, posteriormente, os analistas possam verificar e corrigir os vetores das áreas | 1 | R3, R4, R5 e R6 | 
-| 2.2 | Alta | Como analista, eu preciso visualizar e editar as áreas cadastradas para garantir a precisão das informações | 2 | R2 e R4 |
-| 3 | Média| Como analista, eu preciso comparar imagens de diferentes momentos (antes e depois de ajustes) para garantir que os dados estão corretos | 2 | R2 e R4 |
-| 4 | Média| Como consultor, eu quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas | 3 | R4 e R7 |
-| 5 | Baixa| Como administrador, preciso que a aplicação seja segura e todos os dados sensíveis estejam protegidos, tendo as permissões e acessos apenas quem eu configurar no cadastro | 3 | R2, R3, R4 e R7 |
+| 2.2 | Alta | Como analista, eu preciso visualizar os mapas de classificação automática (marcação das ervas daninhas feita por IA) dos talhões que atribuir a mim, para posteriormente editar e/ou aprovar de acordo com a minha análise | 2 | R2, R4 e RN1 |
+| 3.1 | Média | Como analista, eu preciso comparar imagens de diferentes momentos (antes e depois de ajustes) para auxiliar na minha edição e aprovação, garantindo que os dados estão corretos | 2 | R2, R4 e RN1 |
+| 3.2 | Média | Como analista, eu preciso aprovar mapas de classificação automática que estiverem de acordo e editar as marcações que não condizem com a realidade antes de aprovar | 2 | R2, R4 e RN1 |
+| 4.1 | Média | Como analista, eu preciso que o tempo gasto na aprovação dos mapas de classificação seja visível e armazenado, desde o momento em que o registro é cadastrado e disponibilizado para a análise até o momento de sua aprovação | 3 | R4 e R7 |
+| 4.2 | Baixa | Como consultor, eu quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas | 3 | R4 e R7 |
+| 5 | Baixa | Como administrador, preciso que a aplicação seja segura e todos os dados sensíveis estejam protegidos, tendo as permissões e acessos apenas quem eu configurar no cadastro | 3 | R2, R3, R4 e R7 |
 
 ### :calendar: Backlog das Sprints
 
@@ -130,6 +132,8 @@ Wireframe do produto disponível pelo [Figma](https://www.figma.com/design/Q9tJC
 <summary> SPRINT 1 </summary>
 
 ### Vídeo da aplicação e suas funcionalidades:
+
+[Assista pelo Youtube](https://youtu.be/h9xtqRggVMw) ou pelo seu [Reprodutor de Vídeos](/img/1%20SPRINT%20PYG3.mp4)
 
 ### **1** - User Story - Cadastro - *R1 e R4*
 Como administrador, preciso cadastrar novos usuários (analistas e consultores) para que possam acessar e operar o sistema com determinadas permissões.
@@ -145,7 +149,9 @@ Como consultor, eu quero poder cadastrar áreas agrícolas para que, posteriorme
 -	O cadastro de áreas precisa das seguintes informações: nome da fazenda, cultura, produtividade por ano, área, tipo de solo, cidade e estado.
 -	O sistema salva as alterações e atualiza o banco de dados corretamente.
 
-Visualizar o [Wireframe da Sprint 1](![Image](https://github.com/user-attachments/assets/2d176364-e6e8-4f4d-b5f5-ae6e1565434e))
+Visualizar o [Wireframe da Sprint 1](/img/wireframe_sprint1.png)
+
+Visualizar o [Modelo Físico da Sprint 1](/img/modelo_fisico_banco_sprint1.png)
 
 
 </details>
@@ -154,23 +160,30 @@ Visualizar o [Wireframe da Sprint 1](![Image](https://github.com/user-attachment
 <summary> SPRINT 2 </summary>
 
 ### Vídeo da aplicação e suas funcionalidades:
-<!-- https://github.com/user-attachments/assets/ecf9a2c3-bc68-442f-a9ba-4b01d428d3ce -->
+<!-- [Assista pelo Youtube](https://youtu.be/h9xtqRggVMw) ou pelo seu [Reprodutor de Vídeos](/img/1%20SPRINT%20PYG3.mp4) -->
 
-### **2.2** - Visualização e Edição - *R2 e R4*
-Como analista, eu preciso visualizar e editar as áreas cadastradas para garantir a precisão das informações. 
+### **2.2** - Visualização e Edição - *R2, R4 e RN1*
+Como analista, eu preciso visualizar os mapas de classificação automática (marcação das ervas daninhas feita por IA) dos talhões que atribuir a mim, para posteriormente editar e/ou aprovar de acordo com a minha análise. 
 ### Critérios de Aceite:   
--	O Analista visualiza, edita e aprova os vetores das áreas cadastradas no sistema.
--	O tempo gasto nas edições dos vetores precisa ser armazenado para a visualização do próprio analista e servir de parâmetro no Dashboard.
--	O sistema salva as alterações e atualiza o banco de dados corretamente, mantendo o vetor inicial para comparação.
+- O Analista visualiza os talhões cadastrados e pode atribuir talhões a si para análise, edição e aprovação. 
+- A visualização dos talhões acompanha: nome da fazenda, cultura, produtividade por ano, ano, área, tipo de solo, cidade e estado. 
+- O Analista visualiza o talhão atribuído junto ao mapa de classificação automática sobreposto, com as marcações de ervas daninhas detectadas por IA. 
 
-### **3** - Edição e Análise de Imagens - *R2 e R4*
-Como analista, eu preciso comparar imagens de diferentes momentos (antes e depois de ajustes) para garantir que os dados estão corretos. 
+### **3.1** - Edição e Análise de Imagens - *R2, R4 e RN1*
+Como analista, eu preciso comparar imagens de diferentes momentos (antes e depois de ajustes) para auxiliar na minha edição e aprovação, garantindo que os dados estão corretos. 
 ### Critérios de Aceite:   
--	O analista consegue visualizar e comparar imagens antigas e novas de uma área.
--	Correções e anotações podem ser salvas.
--	Dados corrigidos são armazenados no banco de dados e ficam disponíveis para consulta.
+- O Analista consegue visualizar e comparar imagens antigas e novas de uma área, comparando o mapa de classificação automática do Consultor e a versão editada pelo Analista. 
+- Dados corrigidos são armazenados no banco e ficam disponíveis tanto quando salvos para continuar a edição quanto quando aprovados. 
 
-<!-- Visualizar o [Wireframe da Sprint 2](doc/images/wireframe2.png). -->
+### **3.2** - Edição e Análise de Imagens - *R2, R4 e RN1*
+Como analista, eu preciso aprovar mapas de classificação automática que estiverem de acordo e editar as marcações que não condizem com a realidade antes de aprovar. 
+### Critérios de Aceite:   
+- O analista consegue visualizar e comparar imagens antigas e novas de uma área, comparando o mapa de classificação automática do Consultor e a versão editada pelo Analista no momento da edição. 
+- Dados corrigidos são armazenados no banco ao serem salvos, mesmo antes da aprovação, para permitir continuidade da edição posteriormente. 
+
+Visualizar o Wireframe da Sprint 2 para a entrega das funcionalidades do [Analista](/img/wireframe_sprint2_analista.png) e do [Consultor](/img/wireframe_sprint2_consultor.png)
+
+Visualizar o [Modelo Físico da Sprint 2](/img/modelo_fisico_banco_sprint2.png)
 
 
 </details>
@@ -181,19 +194,28 @@ Como analista, eu preciso comparar imagens de diferentes momentos (antes e depoi
 ### Vídeo da aplicação e suas funcionalidades:
 <!-- https://github.com/user-attachments/assets/94cbb601-29eb-468a-8204-dc4a2566c86d -->
 
-### **4** - Dashboards e Relatórios - *R4 e R7*
-Como consultor, eu quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas. 
+### **4.1** - Dashboards e Relatórios - *R4 e R7*
+Como analista, eu preciso que o tempo gasto na aprovação dos mapas de classificação seja visível e armazenado, desde o momento em que o registro é cadastrado e disponibilizado para a análise até o momento de sua aprovação.  
 ### Critérios de Aceite:   
--	O consultor e o administrador visualizam o progresso das análises em gráficos interativos.
--	Filtros permitem visualizar dados específicos (áreas analisadas, status de aprovação, prazos de entrega).
--	Os dashboards são atualizados em tempo real com base nas atividades dos analistas.
+-	O tempo gasto nas edições dos mapas precisa ser armazenado para a visualização do próprio analista e servir de parâmetro no Dashboard. 
+- O sistema salva as alterações e atualiza o banco de dados corretamente, mantendo o mapa inicial para comparação. 
+- Quando o mapa é salvo para terminar a edição posteriormente, não pode ser pausada a contagem. Ela só acaba quando o mapa é aprovado. 
+
+### **4.2** - Dashboards e Relatórios - *R4 e R7*
+Como consultor, eu quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas.  
+### Critérios de Aceite:   
+-	O consultor e o administrador visualizam o progresso das análises em gráficos interativos. 
+- Filtros permitem visualizar dados específicos (áreas analisadas, status de aprovação, prazos de entrega). 
+- Os dashboards são atualizados em tempo real com base nas atividades dos analistas. 
 
 ### **5** - Integração e Segurança - *R2, R3, R4 e R7*
 Como administrador, preciso que a aplicação seja segura e todos os dados sensíveis estejam protegidos, tendo as permissões e acessos apenas quem eu configurar no cadastro. 
 ### Critérios de Aceite:   
--	Apenas usuários autenticados acessam a plataforma.
--	O sistema mantém logs de atividades (login, alterações de dados, aprovações).
--	Dados sensíveis estão protegidos conforme os padrões de segurança.
+- Apenas usuários autenticados acessam a plataforma. 
+- O sistema mantém logs de atividades (login, alterações de dados, aprovações). 
+- Dados sensíveis estão protegidos conforme os padrões de segurança. 
+- Implementar autenticação e autorização com Spring Security. 
+- Adicionar controle de sessões de usuários e logs de atividades. 
 
 <!-- Visualizar o [Wireframe da Sprint 3](doc/images/wireframe3.png). -->
 

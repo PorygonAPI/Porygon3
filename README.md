@@ -65,8 +65,8 @@ acesso por meio de API
 - [x] 07/04 a 27/04 - Segunda Sprint
 - [ ] 28/04 a 02/05 - Sprint Review / Planning
 - [ ] 05/05 a 25/05 - Terceira Sprint
-- [ ] 26/05 a 28/05 - Sprint Review 
-- [ ] 09/05 - Feira de Soluções e Apresentação Final API
+- [ ] 26/05 a 30/05 - Sprint Review 
+- [ ] 17/06 - Feira de Soluções e Apresentação Final API
 
 *****
 

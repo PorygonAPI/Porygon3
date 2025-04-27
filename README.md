@@ -245,9 +245,11 @@ Nesta sprint, organizamos os prazos em três ciclos de seis dias. As tarefas for
 <summary> SPRINT 2 | </summary>
 <br>
 
-  <!-- Nesta sprint, usamos usando points por histórias para medir nosso progresso em relação às entregas propostas.  
-  Pontuação total: 29 -->
+Nesta sprint, organizamos os prazos em três ciclos de sete dias. As tarefas foram classificadas por prioridade: alta, média e baixa.
+
 <br>
+
+  ![alt text](img/burndown_sprint2.png)
 
 <!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
 

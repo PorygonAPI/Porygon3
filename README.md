@@ -21,14 +21,13 @@
 
 | Integrantes | Redes Sociais |
 |-------------|---------------|
-| Naira Maximo - Product Owner | <a href="https://www.linkedin.com/in/naira-maximo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="http://github.com/naira-maximo" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Renato Mendes - Product Owner | <a href="https://www.linkedin.com/in/renato-mendes-61a6481a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/RenatoCMMendes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Ruth Mira - Scrum Master | <a href="https://www.linkedin.com/in/ruth-mira/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/RuthMira" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Alexandre Jonas - Developer | <a href="https://www.linkedin.com/in/alexandre-jonas-de-souza-fonseca-989920181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/AlexandreJonas" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Carla Daiane - Developer  | <a href="https://www.linkedin.com/in/carla-daiane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/carladaiane" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | João Pedro - Developer | <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-563369181/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3BMzBX9UmZRY%2BNKWcgOUsNGQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/BispoJPM" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | João Arruda - Developer | <a href="https://www.linkedin.com/in/joaoarruda0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/joaoarruda-dev" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Pablo Henrique - Developer | <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/pablohgs05" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
-| Renato Mendes - Developer| <a href="https://www.linkedin.com/in/renato-mendes-61a6481a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/RenatoCMMendes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Vitor Morais - Developer | <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/vmorais111" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 
 [Arquivo de Contribuição do Projeto](https://github.com/PorygonAPI/doc/blob/main/CONTRIBUTING.md)
@@ -48,7 +47,7 @@ acesso por meio de API
 > - Segurança com Spring Security 
 > - Aprofundamento no conhecimento de banco de dados relacional por meio de tarefas de administração
 > - Programação de backend em banco de dados utilizando PL/SQL do Oracle
-> -  Componentização e Reutilização de Código
+> - Componentização e Reutilização de Código
 > - Gerenciamento de Estado com Vue
 > - Manipulação e Visualização de Dados em Tempo Real
 > - Diretivas Personalizadas e Renderização Condicional:
@@ -63,8 +62,8 @@ acesso por meio de API
 - [x] 10/03 a 30/03 - Primeira Sprint
 - [x] 31/03 a 04/04- Sprint Review / Planning
 - [x] 07/04 a 27/04 - Segunda Sprint
-- [ ] 28/04 a 02/05 - Sprint Review / Planning
-- [ ] 05/05 a 25/05 - Terceira Sprint
+- [x] 28/04 a 02/05 - Sprint Review / Planning
+- [x] 05/05 a 25/05 - Terceira Sprint
 - [ ] 26/05 a 30/05 - Sprint Review 
 - [ ] 17/06 - Feira de Soluções e Apresentação Final API
 
@@ -122,8 +121,9 @@ Wireframe do produto disponível pelo [Figma](https://www.figma.com/design/Q9tJC
 | 2.2 | Alta | Como analista, eu preciso visualizar os mapas de classificação automática (marcação das ervas daninhas feita por IA) dos talhões que atribuir a mim, para posteriormente editar e/ou aprovar de acordo com a minha análise | 2 | R2, R4 e RN1 |
 | 3.1 | Média | Como analista, eu preciso comparar imagens de diferentes momentos (antes e depois de ajustes) para auxiliar na minha edição e aprovação, garantindo que os dados estão corretos | 2 | R2, R4 e RN1 |
 | 3.2 | Média | Como analista, eu preciso aprovar mapas de classificação automática que estiverem de acordo e editar as marcações que não condizem com a realidade antes de aprovar | 2 | R2, R4 e RN1 |
-| 4.1 | Média | Como analista, eu preciso que o tempo gasto na aprovação dos mapas de classificação seja visível e armazenado, desde o momento em que o registro é cadastrado e disponibilizado para a análise até o momento de sua aprovação | 3 | R4 e R7 |
-| 4.2 | Baixa | Como consultor, eu quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas | 3 | R4 e R7 |
+| 4.1 | Média | Como consultor, eu preciso que o tempo gasto na aprovação dos mapas de classificação seja visível e armazenado, desde o momento em que o registro é cadastrado e disponibilizado para a análise até o momento de sua aprovação | 3 | R4 e R7 |
+| 4.2 | Média | Como consultor, quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas | 3 | R4 e R7 |
+| 4.3 | Média | Como consultor, quero acessar dashboards para métricas de produtividade das safras. | 3 | R4 e R7 |
 | 5 | Baixa | Como administrador, preciso que a aplicação seja segura e todos os dados sensíveis estejam protegidos, tendo as permissões e acessos apenas quem eu configurar no cadastro | 3 | R2, R3, R4 e R7 |
 
 ### :calendar: Backlog das Sprints
@@ -195,18 +195,25 @@ Visualizar o [Modelo Físico da Sprint 2](/img/modelo_fisico_banco_sprint2.png)
 <!-- https://github.com/user-attachments/assets/94cbb601-29eb-468a-8204-dc4a2566c86d -->
 
 ### **4.1** - Dashboards e Relatórios - *R4 e R7*
-Como analista, eu preciso que o tempo gasto na aprovação dos mapas de classificação seja visível e armazenado, desde o momento em que o registro é cadastrado e disponibilizado para a análise até o momento de sua aprovação.  
+Como consultor, eu preciso que o tempo gasto na aprovação dos mapas de classificação seja visível e armazenado, desde o momento em que o registro é cadastrado e disponibilizado para a análise até o momento de sua aprovação.  
 ### Critérios de Aceite:   
 -	O tempo gasto nas edições dos mapas precisa ser armazenado para a visualização do próprio analista e servir de parâmetro no Dashboard. 
 - O sistema salva as alterações e atualiza o banco de dados corretamente, mantendo o mapa inicial para comparação. 
 - Quando o mapa é salvo para terminar a edição posteriormente, não pode ser pausada a contagem. Ela só acaba quando o mapa é aprovado. 
 
 ### **4.2** - Dashboards e Relatórios - *R4 e R7*
-Como consultor, eu quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas.  
+Como consultor, quero acessar dashboards para acompanhar as atividades dos analistas, progresso de análise e cadastramento das áreas.  
 ### Critérios de Aceite:   
 -	O consultor e o administrador visualizam o progresso das análises em gráficos interativos. 
 - Filtros permitem visualizar dados específicos (áreas analisadas, status de aprovação, prazos de entrega). 
 - Os dashboards são atualizados em tempo real com base nas atividades dos analistas. 
+
+### **4.3** - Dashboards e Relatórios - *R4 e R7*
+Como consultor, quero acessar dashboards para métricas de produtividade das safras. 
+### Critérios de Aceite:   
+- O consultor e o administrador visualizam o progresso das análises em gráficos interativos. 
+- Filtros permitem visualizar dados específicos (produtividade por cultura, cultura mais produtiva, produtividade média por estado e estado mais produtivo). 
+- Os dashboards são atualizados em tempo real com base nas atividades dos analistas.
 
 ### **5** - Integração e Segurança - *R2, R3, R4 e R7*
 Como administrador, preciso que a aplicação seja segura e todos os dados sensíveis estejam protegidos, tendo as permissões e acessos apenas quem eu configurar no cadastro. 
@@ -217,7 +224,9 @@ Como administrador, preciso que a aplicação seja segura e todos os dados sens�
 - Implementar autenticação e autorização com Spring Security. 
 - Adicionar controle de sessões de usuários e logs de atividades. 
 
-<!-- Visualizar o [Wireframe da Sprint 3](doc/images/wireframe3.png). -->
+Visualizar o Wireframe da Sprint 3 para a entrega das funcionalidades [Consultor](/img/wireframe_sprint3_consultor.png)
+
+Visualizar o [Modelo Físico da Sprint 3](/img/modelo_fisico_banco_sprint3.png)
 
 
 </details>
@@ -249,7 +258,7 @@ Nesta sprint, organizamos os prazos em três ciclos de sete dias. As tarefas for
 
 <br>
 
-  ![alt text](img/burndown_sprint2.png)
+  ![Burndown - Sprint 2 ](img/burndown_sprint2.png)
 
 <!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
 

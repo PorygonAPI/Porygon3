@@ -17,7 +17,7 @@
 
 <h1>:busts_in_silhouette: Integrantes da Equipe</h1>
 
-<img src="https://github.com/user-attachments/assets/09751d06-22bd-43bd-bebd-d859640bdd76" alt="Integrantes"  />
+<img src="img/integrantes.png" alt="Integrantes" />
 
 | Integrantes | Redes Sociais |
 |-------------|---------------|
@@ -64,8 +64,8 @@ acesso por meio de API
 - [x] 07/04 a 27/04 - Segunda Sprint
 - [x] 28/04 a 02/05 - Sprint Review / Planning
 - [x] 05/05 a 25/05 - Terceira Sprint
-- [ ] 26/05 a 30/05 - Sprint Review 
-- [ ] 17/06 - Feira de Soluções e Apresentação Final API
+- [x] 26/05 a 30/05 - Sprint Review 
+- [x] 17/06 - Feira de Soluções e Apresentação Final API
 
 *****
 
@@ -260,8 +260,6 @@ Nesta sprint, organizamos os prazos em três ciclos de sete dias. As tarefas for
 
   ![Burndown - Sprint 2 ](img/burndown_sprint2.png)
 
-<!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
-
 Última Atualização: 01/10/2024 -->
 
 </details>
@@ -271,12 +269,12 @@ Nesta sprint, organizamos os prazos em três ciclos de sete dias. As tarefas for
 <summary> SPRINT 3 | </summary>
 <br>
 
-  <!-- Nesta sprint, usamos usando points por histórias para medir nosso progresso em relação às entregas propostas.  
-  Pontuação total: 29 -->
+Nesta sprint, organizamos os prazos em três ciclos de sete dias. As tarefas foram classificadas por prioridade: alta, média e baixa.
+
 <br>
 
-<!-- ![Burndown - Sprint 1 (3)](https://github.com/user-attachments/assets/3ffedea1-7bf2-473f-b26b-34c44f52c85c)
+  ![Burndown - Sprint 3 ](img/burndownsprint3.png)
 
-Última Atualização: 01/10/2024 -->
+Última Atualização: 05/05/2025 -->
 
 </details>
